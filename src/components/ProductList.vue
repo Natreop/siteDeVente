@@ -19,23 +19,30 @@
 const products = [
   {
     id: 1,
-    name: "Visite de Brasserie Bavière",
+    name: "Visite de Brasserie  Weihenstephan",
     location: "Colmar",
-    image: "https://images.unsplash.com/photo-1608270861620-7e3b61894f91?w=250&h=350&fit=crop",
+    image: "https://letempsdunebiere.ca/wp-content/uploads/2023/08/Brauerei_Weihenstephan-547990582-e1692535343618.jpg",
     price: 25
   },
   {
     id: 2,
     name: "Excursion en Montagne",
-    location: "Vosges",
+    location: "Kofel",
     image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=250&h=350&fit=crop",
     price: 35
   },
   {
     id: 3,
     name: "Dégustation de Bière Locale",
-    location: "Strasbourg",
+    location: "Cologne",
     image: "https://images.unsplash.com/photo-1535958636474-b021ee887b13?w=250&h=350&fit=crop",
+    price: 30
+  },
+  {
+    id: 4,
+    name: "Dégustation de Bière Locale",
+    location: "Munich",
+    image: "https://cdn.shopify.com/s/files/1/0242/4992/5687/files/image-investissez-tireuse.jpg?v=1693385906",
     price: 30
   }
 ]

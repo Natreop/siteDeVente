@@ -30,10 +30,10 @@
 const excursions = [
   {
     id: 1,
-    name: "Visite de Brasserie Bavière",
+    name: "Visite de Brasserie Weihenstephan",
     location: "Colmar",
     description: "Découvrez les secrets de la fabrication de la bière traditionnelle avec une visite guidée complète et une dégustation exclusive.",
-    image: "https://images.unsplash.com/photo-1608270861620-7e3b61894f91?w=300&h=400&fit=crop",
+    image: "https://letempsdunebiere.ca/wp-content/uploads/2023/08/Brauerei_Weihenstephan-547990582-e1692535343618.jpg",
     duration: "3 heures",
     difficulty: "Facile",
     price: 25
@@ -41,9 +41,9 @@ const excursions = [
   {
     id: 2,
     name: "Excursion en Montagne",
-    location: "Vosges",
+    location: "Kofel",
     description: "Une randonnée spectaculaire à travers les montagnes des Vosges avec vue panoramique sur la vallée de Ribeauvillé.",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=250&h=350&fit=crop",
     duration: "5 heures",
     difficulty: "Moyen",
     price: 35
@@ -51,22 +51,22 @@ const excursions = [
   {
     id: 3,
     name: "Dégustation de Bière Locale",
-    location: "Strasbourg",
+    location: "Cologne",
     description: "Une expérience gastronomique unique combinant visite historique et dégustation des meilleures bières locales alsaciennes.",
-    image: "https://images.unsplash.com/photo-1535958636474-b021ee887b13?w=300&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1535958636474-b021ee887b13?w=250&h=350&fit=crop",
     duration: "2.5 heures",
     difficulty: "Facile",
     price: 30
   },
   {
     id: 4,
-    name: "Randonnée du Vin",
-    location: "Route des Vins d'Alsace",
-    description: "Parcourez les vignobles alsaciens en randonnée avec arrêts dans les caves et dégustations de vins reconnaisuance mondiale.",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop",
+    name: "Dégustation de Bière Locale",
+    location: "Munich",
+    description: "Parcourez les vignobles alsaciens en randonnée avec arrêts dans les caves et dégustations de vins reconnues internationalement.",
+    image: "https://cdn.shopify.com/s/files/1/0242/4992/5687/files/image-investissez-tireuse.jpg?v=1693385906",
     duration: "4 heures",
     difficulty: "Facile",
-    price: 40
+    price: 30
   }
 ]
 </script>

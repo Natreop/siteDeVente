@@ -6,7 +6,7 @@
         <strong>Bavière Excursions</strong>
       </p>
       <p id="company-description">
-        Texte à compléter plus tard...
+        Bienvenue en Bavière, une région entre montagnes, lacs et villages pittoresques. Découvrez des châteaux féeriques, explorez la nature alpine et plongez dans des traditions authentiques. Nos excursions vous offrent une expérience unique, entre culture, paysages et gastronomie locale.
       </p>
     </div>
   </section>
